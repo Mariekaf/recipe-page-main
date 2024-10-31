@@ -32,7 +32,7 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Links
 
-- Solution URL: [Ma solution](https://mariekaf.github.io/social-links-profile-main/)
+- Solution URL: [Ma solution](https://mariekaf.github.io/recipe-page-main/)
 
 
 ## My process
@@ -50,5 +50,5 @@ Throughout this project, I gained several key insights:
 
 ## Author
 
-- Website - [Mariekaff](https://mariekaf.github.io/social-links-profile-main/)
+- Website - [Mariekaff](https://github.com/Mariekaf/recipe-page-main.git)
 - Frontend Mentor - [mariefk](https://www.frontendmentor.io/profile/Mariekaf)
